@@ -3,7 +3,7 @@ Ejercicio de web components y API
 
 Hola profe, aquí está mi ejercicio de la semana 8, te cuento algunos pasos para revisarlo correctamente.
 1.Descargar y descomprimir el ZIP.
-2.Abrir a la carpeta web semana 8 con VisualStudioCode.
+2.Abrir a la carpeta Web semana 8 con VisualStudioCode.
 3.Dentro del visual en la carpeta, abrir una nueva terminal e iniciar el servidor: npm run server.
 4.Una vez iniciado mostrará varios localhost, abrir el localhost3050/posts.
 5.Una vez abierto el localhost aparecerá mi FAKE API con el arreglo y mis elementos, fondo negro letras blancas.
